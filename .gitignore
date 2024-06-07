@@ -33,3 +33,6 @@ terraform.rc
 builds/
 __pycache__/
 .idea/
+.tronador
+.tronador/
+provider.temp.tf
